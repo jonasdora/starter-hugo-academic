@@ -40,7 +40,7 @@ education:
       institution: Maastricht University
       year: 2015
     - course: BSc in Psychology
-      institution: Radboud University
+      institution: University of Groningen
       year: 2014
 
 # Social/Academic Networking
